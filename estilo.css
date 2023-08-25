@@ -1,0 +1,30 @@
+html, body {
+    margin: 0;
+}
+#imagem_fundo {
+    background: url("one.jpg");
+    height: 20%;
+    background-size:cover;
+}
+#titulo {
+color: rgb(15, 6, 6);
+padding-top: 20%;
+font-size: 700%;
+font-weight: 400;
+text-align: center;
+line-height: 0.6;
+}
+#subtitulo{
+    color: rgb(12, 8, 8);
+    margin-left: 20%;
+    margin-right: 20%;
+    border-top: 3px;
+    text-shadow: 1px 1px;
+}
+#acao{
+    color: rgb(7, 0, 0);
+    border: 1px;
+    padding: 10px 20px 10px 20px;
+    text-align: center;
+}
+
